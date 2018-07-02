@@ -1,1 +1,1 @@
-Google Photos App
+Twitter client for Mac
