@@ -9,3 +9,5 @@ Different forms of machine learning in the Photos service allow recognition of p
 Google photos acts as a back up when photos are sent or in Google terms 'Shared'. This is just a common backup tool when photos are shared between social media or other platforms or apps.
 
 Google Photos received critical acclaim after its decoupling from Google+ in 2015. Reviewers liked the updated Photos service for its recognition technology, search, apps, and loading times. Nevertheless, privacy concerns were raised, including Google's motivation for building the service, as well as its relationship to governments and possible laws requiring Google to hand over a user's entire photo history. Google Photos has seen strong user adoption. It reached 100 million users after five months, 200 million after one year, and 500 million as of May 2017, with Google announcing that over 1.2 billion photos are uploaded to the service every day, with the grand total of all uploaded content measuring over 13.7 petabytes of storage.
+
+Wikipedia
