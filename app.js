@@ -4,7 +4,7 @@ var Menu = require("electron").Menu;
 const widevine = require("electron-widevinecdm");
 
 require('update-electron-app')({
-    repo: 'github-user/repo',
+    repo: 'monsieursam/Google-Photos-App',
     updateInterval: '1 hour'
 })
 
