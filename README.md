@@ -1,3 +1,5 @@
+Client Desktop of Google Photos
+
 Google Photos is a photo sharing and storage service developed by Google. It was announced in May 2015 and spun out from Google+, the company's social network.
 
 Google Photos gives users free, unlimited storage for photos up to 16 megapixels and videos up to 1080p resolution. The service automatically analyzes photos, identifying various visual features and subjects. Users can search for anything in photos, with the service returning results from three major categories: People, Places, and Things. Google Photos recognizes faces, grouping similar ones together; geographic landmarks (such as the Eiffel Tower); and subject matter, including birthdays, buildings, animals, food, and more.
